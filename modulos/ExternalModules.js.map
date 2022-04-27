@@ -1,0 +1,1 @@
+{"version":3,"file":"ExternalModules.js","sourceRoot":"","sources":["ExternalModules.ts"],"names":[],"mappings":";;AAAA,qEAAkE;AAElE,IAAI,aAAa,GAAG,CAAC,gBAAgB,EAAC,KAAK,EAAE,cAAc,CAAC,CAAA;AAE5D,aAAa,CAAC,OAAO,CAAC,KAAK,CAAC,EAAE;IAC1B,OAAO,CAAC,GAAG,CAAC,GAAG,KAAK,IAAI,+CAAsB,CAAC,OAAO,CAAC,KAAK,CAAC,EAAE,CAAC,CAAA;AACpE,CAAC,CAAC,CAAA"}
