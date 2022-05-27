@@ -6,6 +6,7 @@ class Person1 {
         console.log(`name: ${this.name}`);
     }
 }
+
 class Employee1 extends Person1 {
     constructor(name, salary) {
         super(name);
