@@ -1,7 +1,5 @@
 # Basic TypeScript
  
-<h1>Basic Commands - TypeScript</h1>
-
 <p>some basic commands using typescript</p>
 
 
